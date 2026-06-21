@@ -17,6 +17,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 Estudiante de Ingeniería de Sistemas e Informática, aprendiendo algo nuevo cada día y tratando de construir herramientas que sean útiles para los demás.
+soy Proactivo, curioso y me gusta construir algo que solucione algun problema  Mi enfoque está en el aprender conceptos para armar un plan una bases solidas para un buen desarrollo y el ciclo de vida del proyecto  , y la contenerización con Docker. Actualmente exploro áreas como DevOps, inteligencia artificial local y ciberseguridad como siguientes pasos en mi formación. 
 
 <!--
 **BladyLuna/BladyLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
